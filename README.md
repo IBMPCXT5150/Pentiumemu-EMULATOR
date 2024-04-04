@@ -2,17 +2,15 @@
 Pentiumemu is a very W.I.P Vintage Hardware Emulator like 86box.
 
 # How to install
-1.Download C++ Runtime (Redist or etc.)
+1.Download the zip from the releases section
 
-2.Download the zip from the releases section
+2.Extract Pentiumemu-github.zip
 
-3.Extract Pentiumemu-github.zip
+3.Setup ROMs
 
-4.Setup ROMs
-
-4.Windows - Extract to C:\Program Files\penemu\roms or Folder where Pentiumemu is located
-4.MacOS - Extract to ~/Library/Application Support/pentiumemulator/roms or /Library/Application Support/pentiumemulator/roms or folder where pentiumemu is located
-4.Debian or comp. - Extract to Where pentiumemu is located
+3.Windows - Extract to C:\Program Files\penemu\roms or Folder where Pentiumemu is located
+3.MacOS - Extract to ~/Library/Application Support/pentiumemulator/roms or /Library/Application Support/pentiumemulator/roms or folder where pentiumemu is located
+3.Debian or comp. - Extract to Where pentiumemu is located
 
 # List of supported machines (Random Order)
 ## i386
